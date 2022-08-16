@@ -200,7 +200,7 @@ html {
     /*header dùng fixed nên phải đẩy xuống 46px */
     padding-top: 44.53125%;
     /* 50 % chiều rộng của phần tử chứa nó */
-    background: url('/assets/img/z3507904551570_64ecbb39470896c68c05d372ec9f2208.jpg') top center / cover no-repeat;
+    background: url('../img/z3507904551570_64ecbb39470896c68c05d372ec9f2208.jpg') top center / cover no-repeat;
     /*background-size : ảnh được co để vừa với phần tử chứa, tuy nhiên ảnh bị cắt nếu kích thước không cùng tỷ lệ với phần tử chứa */
 }
 
@@ -533,7 +533,7 @@ html {
 }
 /* set header của modal */
 header.modal-header{
-    background-image: url("./assets/img/header modal/tong-hop-hinh-nen-background-vector-designer-dep-do-phan-giai-fhd-2k-4k-moi-nhat-4.jpg");
+    background-image: url("../img/header modal/tong-hop-hinh-nen-background-vector-designer-dep-do-phan-giai-fhd-2k-4k-moi-nhat-4.jpg");
     height: 120px;
     display: flex; 
     align-items: center;
